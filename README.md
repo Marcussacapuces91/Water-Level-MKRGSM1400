@@ -1,2 +1,4 @@
 # Water-Level-MKRGSM1400
-Water level telemeter using &lt;a href="https://store.arduino.cc/usa/mkr-gsm-1400">MKR GSM 1400 card&lt;/a>
+Water level telemeter using the [Arduino MKR GSM 1400](https://store.arduino.cc/usa/mkr-gsm-1400).
+
+![Image of breadboard](proto.jpg)
